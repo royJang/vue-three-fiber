@@ -1,0 +1,13 @@
+{
+  "name": "vue-three-fiber--root",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "three": "^0.138.3",
+    "vue": "^3.2.31"
+  },
+  "dependencies": {
+    "@types/three": "^0.138.0"
+  }
+}
