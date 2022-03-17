@@ -1,0 +1,14 @@
+{
+  "name": "@vue-three/vue-three-fiber",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "three": ">=0.133"
+  },
+  "devDependencies": {
+    "three": "^0.138.3",
+    "zustand": "^3.7.1"
+  },
+  "dependencies": {
+    "@types/three": "^0.138.0"
+  }
+}
